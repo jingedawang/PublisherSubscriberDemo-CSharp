@@ -1,0 +1,6 @@
+D:\c#Projects\PublisherSubscriberDemo\PublisherSubscriberDemo\bin\Debug\PublisherSubscriberDemo.exe.config
+D:\c#Projects\PublisherSubscriberDemo\PublisherSubscriberDemo\bin\Debug\PublisherSubscriberDemo.exe
+D:\c#Projects\PublisherSubscriberDemo\PublisherSubscriberDemo\bin\Debug\PublisherSubscriberDemo.pdb
+D:\c#Projects\PublisherSubscriberDemo\PublisherSubscriberDemo\obj\Debug\PublisherSubscriberDemo.csprojResolveAssemblyReference.cache
+D:\c#Projects\PublisherSubscriberDemo\PublisherSubscriberDemo\obj\Debug\PublisherSubscriberDemo.exe
+D:\c#Projects\PublisherSubscriberDemo\PublisherSubscriberDemo\obj\Debug\PublisherSubscriberDemo.pdb
